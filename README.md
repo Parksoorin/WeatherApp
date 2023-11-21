@@ -6,5 +6,5 @@ openweathermap API를 사용하여 위치별 날씨를 불러오는 웹 페이�
 
 
 ## 구현 화면
-
+https://github.com/Parksoorin/WeatherApp/issues/1#issue-2003507965
 
